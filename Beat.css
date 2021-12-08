@@ -1,0 +1,169 @@
+/* Config-font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+/* Config-reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    list-style-type: none;
+}
+
+/* Config-body */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    background-color: #129799;
+    width: 100%;
+    height: 55%;
+}
+main {
+    background-color: #FFA185;
+    width: 100%;
+    height: 100%;
+}
+footer {
+    background-color: #129799;
+    width: 100%;
+    height: 20%;
+}
+
+/* Config-header */
+.Nav {
+    display: flex;
+    justify-content: center;
+}
+.Nav-HeaderTitle {
+    color: white;
+    font-size: 4.15rem;
+    font-weight: bold;
+}
+.Nav-Subheading {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.Box-HeaderTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-life {
+    width: 40%;
+}
+
+.Topics-Main {
+    color: white;
+    font-size: 1.3rem;
+    padding-left: 60px;
+}
+.Topics-Main:hover {
+    cursor: pointer;
+    
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.Subheading {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 60px;
+}
+.Subheading:hover {
+    cursor: pointer;
+    
+    font-size: 1.8rem;
+    text-decoration: underline;
+}
+
+/* Config-main */
+.Main-Title {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    
+    padding-top: 3%;
+    margin-left: 6%;
+}
+.Main-Text {
+    font-size: 1.4rem;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-left: 6%;
+}
+
+.Image-Box00 {
+    display: flex;
+    justify-content: space-around;
+}
+.Image-Box01 {
+    display: flex;
+    justify-content: space-around;
+}
+.Main-Images {
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+    border-radius: 5px;
+}
+.Main-Images:hover {
+    cursor: pointer;
+}
+
+.Main-Mais {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+}
+.Main-Mais:hover {
+    cursor: pointer;
+}
+
+/* Config-footer */
+.Footer-Nav {
+    display: flex;
+
+    width: 100%;
+    height: 20%;
+}
+.Box-IconsOne {
+    width: 50vw;
+    height: 20vh;
+    margin-left: 5vw;
+
+    display: flex;
+    align-items: center;
+}
+.Icon {
+    width: 6%;
+    padding-left: 40px;
+}
+.Icon:hover {
+    cursor: pointer;
+}
+
+.Box-Topics {
+    width: 50vw;
+    height: 20vh;
+    
+    display: flex;
+    justify-content: center;
+}
+.Topics-Box {
+    display: flex;
+    align-items: center;
+}
+.Topics-Footer {
+    color: white;
+    font-size: 1.3rem;
+    padding-left: 60px;
+}
+.Topics-Footer:hover {
+    cursor: pointer;
+}
