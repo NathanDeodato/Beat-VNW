@@ -21,28 +21,15 @@
 
 <h2  align="center">Project</h2>
 
-<img src="Assets/ProjectImages/StarWars-ImageOne.png" alt="PageWeb-01">
-<img src="Assets/ProjectImages/StarWars-ImageTwo.png" alt="PageWeb-02">
-<img src="Assets/ProjectImages/StarWars-ImageThree.png" alt="PageWeb-03">
-<img src="Assets/ProjectImages/StarWars-ImageFour.png" alt="PageWeb-04">
-<img src="Assets/ProjectImages/StarWars-ImageFive.png" alt="PageWeb-05">
-<img src="Assets/ProjectImages/StarWars-ImageSix.png" alt="PageWeb-06">
+<img src="Assets/ProjectImages/Beat-ImageOne.png" alt="PageWeb-01">
+<img src="Assets/ProjectImages/Beat-ImageTwo.png" alt="PageWeb-02">
 
----
 
 <h2  align="center">Technologies</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-<h3 align="center">Funcionalidades</h3>
-
-- [] Responsividade
-- [] hover
-
----
 
 <h3 align="center">Academia</h3>
 
@@ -50,7 +37,6 @@
     <img src="Assets/LogoVNW.svg">
 </section>
 
----
 
 <h3 align="center">Status</h3>
 
