@@ -1,4 +1,4 @@
-<img align="center" src="https://img.shields.io/static/v1?label=Code&message=N-CCC&color=1C1C1C&style=for-the-badge&logo=GHOST" alt="ntShield">
+<img src="https://img.shields.io/static/v1?label=Code&message=N-CCC&color=1C1C1C&style=for-the-badge&logo=GHOST" alt="ntShield">
 
 ---
 
@@ -45,6 +45,6 @@
 
 <h3 align="center">Status</h3>
 
-<p>
+<h4 align="center">
     ✔️ FINALIZADO ✔️
-</p>
+</h4>
