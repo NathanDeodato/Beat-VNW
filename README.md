@@ -17,7 +17,7 @@
 
 <h2  align="center">Application demo</h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a6cced98-1987-4e36-a017-b7e53e63e88e/deploy-status)](https://app.netlify.com/sites/starwars-vnw/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/211da53d-4ffc-48f2-8ee3-213075a5f484/deploy-status)](https://app.netlify.com/sites/beat-vnw/deploys)
 
 ---
 
