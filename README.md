@@ -17,7 +17,7 @@
 
 <h2  align="center">Application demo</h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/211da53d-4ffc-48f2-8ee3-213075a5f484/deploy-status)](https://app.netlify.com/sites/beat-vnw/deploys)
+<a href="https://beat-vnw.netlify.app/"><img src="https://img.shields.io/static/v1?label=Netlify&message=Demo&color=0e1e25&style=for-the-badge&logo=NETLIFY" alt="ntShield"></a>
 
 ---
 
